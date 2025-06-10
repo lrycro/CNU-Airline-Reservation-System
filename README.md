@@ -1,6 +1,6 @@
 # ✈️ CNU Airline Reservation System
 
-CNU Airline은 2025 Spring Database 과목의 Term Project를 위한 모의 항공권 예약 시스템입니다.  
+CNU Airline은 2025-Spring Database 과목의 Term Project를 위한 모의 항공권 예약 시스템입니다.  
 **회원가입부터 항공권 예약, 취소, 통계까지** 전 기능을 웹 기반으로 구현하였으며, Oracle DB와 PHP를 활용해 개발되었습니다.
 
 ---
@@ -80,7 +80,7 @@ CNU Airline은 2025 Spring Database 과목의 Term Project를 위한 모의 항�
 ## 📬 설치 및 실행
 
 1. Oracle DB 및 계정 생성 후 `init.sql` 실행으로 테이블과 데이터 구축
-2. 'db_connect.php'에 Oracle DB 계정 정보 입력
+2. `db_connect.php`에 Oracle DB 계정 정보 입력
 3. Apache + PHP 환경에서 `/public_html` 경로 실행  
 4. `composer install`로 PHPMailer 설치  
 5. `email.php` 내 관리자 이메일 주소 및 SMTP 설정 수정
