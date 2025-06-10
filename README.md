@@ -37,7 +37,7 @@ CNU Airline은 2025 Spring Database 과목의 Term Project를 위한 모의 항�
 ---
 
 ## 📁 폴더 구조
-
+```
 📁DB-TP/
 ├── config/
 │ └── db_connect.php # Oracle DB 연결 파일
@@ -74,7 +74,7 @@ CNU Airline은 2025 Spring Database 과목의 Term Project를 위한 모의 항�
 ├── composer.json
 ├── composer.lock
 └── README.md
-
+```
 ---
 
 ## 📬 설치 및 실행
